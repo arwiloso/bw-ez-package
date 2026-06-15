@@ -3,4 +3,4 @@
 ## Installation
 
 ```bash
-conda install -c wiloso bw_ez
+conda install -c conda-forge -c cmutel -c wiloso bw_ez
